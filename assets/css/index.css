@@ -1027,8 +1027,8 @@ flex-direction: column;
 }
 
 .contact-content > div{
-
 	width: 100% !important;
+	margin-bottom: 20px;
 }
 
 }
